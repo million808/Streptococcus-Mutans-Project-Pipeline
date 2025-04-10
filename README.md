@@ -151,5 +151,5 @@ python download.py
 ---
 
 ## Acknowledgements
-- **Foldseek**: van Kempen, M., Kim, S.S., Tumescheit, C., Mirdita, M., et al. (2023). Fast and accurate protein structure search with Foldseek. *Nature Biotechnology*. doi:10.1038/s41587-023-01773-0
+- **Foldseek**: van Kempen, M., Kim, S.S., Tumescheit, C., Mirdita, M., et al. (2023). Fast and accurate protein structure search with Foldseek. *Nature Biotechnology*. 
 - **ChatGPT**: Used for occasional debugging guidance and readability suggestions. All code logic, development, and scientific interpretation were conducted independently.

@@ -1,0 +1,90 @@
+Author: Max Balter
+Project Goal: This pipeline identifies and structurally annotates uncharacterized proteins from Streptococcus mutans (UA5v7 strain), using structural modeling and large-scale Foldseek search to uncover possible functions based on structural similarity.
+Overview
+In most proteomics workflows, differentially expressed (DE) proteins are identified and grouped by expression category, but many are annotated as "uncharacterized" with no known structure or function. This project targets those proteins directly. My goal is to functionally contextualize uncharacterized proteins using structural bioinformatics tools.
+Instead of starting with all DE proteins, I focused solely on the subset of proteins marked “uncharacterized” in the UA5v7 differential expression dataset. These proteins lack experimentally determined structures and have minimal annotation in UniProt. I built a pipeline that predicts structures from sequence, searches for structural analogs in curated structural databases, and downloads and summarizes the top structural matches.
+
+Pipeline Summary
+🔍 What This Pipeline Does
+* Filters uncharacterized proteins from the UA5v7 differential expression dataset.
+* Downloads full FASTA sequences from UniProt using filtered accession IDs.
+* Predicts protein 3D structures with ProstT5, a transformer-based structure prediction model.
+* Searches predicted structures using Foldseek against high-quality structure databases like AlphaFold DB and PDB.
+* Downloads top AlphaFold structural matches (.pdb files).
+* Summarizes and annotates hits with their expression category (up/down/significant).
+* Outputs a master CSV for downstream functional analysis and literature investigation.
+
+Tools Used
+* ProstT5: Predicts structure from FASTA sequence using transformer language models.
+* Foldseek: Performs ultra-fast 3D structural similarity searches across large databases.
+* AlphaFold DB: Source of predicted 3D protein structures for structural alignment reference.
+* UniProt API: Used to download FASTA sequences.
+* Pandas + Python: Used to process and summarize Foldseek hits.
+
+Step-by-Step Workflow
+Step 1: Extract Uncharacterized Accessions
+* I parsed the UA5v7 dataset to isolate UniProt IDs with the “uncharacterized protein” label.
+* These IDs were saved into uncharacterizedfasta.txt.
+Step 2: Download FASTA Sequences
+* I used the UniProt API to fetch full-length protein sequences for the 310 uncharacterized proteins.
+* Output saved as: ua5v7_uncharacterized.fasta.
+Step 3: Structure Prediction with ProstT5
+* I generated 3D structure predictions from the FASTA file using ProstT5.
+* Output database: ua5v7_uncharacterized_structures_db/.
+Step 4: Foldseek Structural Search
+* I ran foldseek easy-search using the ProstT5 structures against all indexed databases:
+    * afdb50
+    * afdb_proteome
+    * afdb_swissprot
+    * esm30
+    * pdb
+* Each run produced a .m8 result file with query-target alignments and bit scores.
+Step 5: Categorize Hits by Expression
+* Foldseek hits were grouped based on their query's DE status:
+    * hits_upregulated_uncharacterized.txt
+    * hits_downregulated_uncharacterized.txt
+    * hits_significant_uncharacterized.txt
+    * hits_all_uncharacterized.txt
+Step 6: Download Top Structural Matches
+* I parsed the top-scoring Foldseek results and downloaded the matching AlphaFold structures.
+* Output saved to top_hit_structures/ as .pdb files.
+Step 7: Summarize and Annotate Results
+* I generated a master CSV (top_hits_summary_final.csv) showing:
+    * Query ID
+    * Matched AlphaFold structure
+    * Foldseek bit score
+    * Alignment quality
+    * Expression category (up/down/sig)
+* This file is the final curated table for structural-functional analysis and biological interpretation.
+
+Key Outputs
+File/Folder	Description
+ua5v7_uncharacterized.fasta	FASTA sequences for all uncharacterized proteins
+ua5v7_uncharacterized_structures_db/	ProstT5-predicted 3D structure database
+prostt5_uncharacterized_results/*.m8	Foldseek alignment result files for each database
+hits_*.txt	Categorized hit files (up/down/significant)
+top_hit_structures/	Downloaded AlphaFold .pdb files of top Foldseek hits
+top_hits_summary_final.csv	Final annotated summary for downstream analysis
+Interpreting Foldseek Results
+Each line in a .m8 file includes:
+nginx
+CopyEdit
+query_id   target_id   fident   alnlen   mismatch   gapopen   qstart   qend   tstart   tend   evalue   bitscore
+This allows me to:
+* Identify which uncharacterized protein is structurally similar to known AlphaFold entries.
+* Assess similarity strength (higher bit score = more likely structural/functional conservation).
+* Prioritize follow-up based on expression category and structure match.
+
+Next Steps: Functional Analysis
+I’m now using the top_hits_summary_final.csv to:
+* Identify top-scoring hits for highly up/downregulated uncharacterized proteins.
+* Search for known annotations or literature for those AlphaFold IDs (even from other organisms).
+* Cross-reference structure hits with biological pathways, stress-response roles, or virulence.
+* Flag promising proteins for future experimental validation or functional prediction tools (like ActSeek or DeepGO).
+
+Acknowledgements
+* Foldseek: van Kempen, M. et al. (2023) Nature Biotechnology
+* AlphaFold DB: DeepMind & EMBL-EBI
+* ProstT5: UW Institute for Protein Design
+* ChatGPT: Assisted with debugging and documentation writing.
+

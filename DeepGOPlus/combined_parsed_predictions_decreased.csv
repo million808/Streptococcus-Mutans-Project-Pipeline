@@ -1,0 +1,483 @@
+Protein,Section,GO_ID,Description,Score
+Q8DUS7,Cellular Component,GO:0110165,cellular anatomical structure,0.345916825532913
+Q8DUS7,Cellular Component,GO:0005622,intracellular anatomical structure,0.323795735836029
+Q8DUS7,Cellular Component,GO:0043226,organelle,0.307530176639557
+Q8DUS7,Cellular Component,GO:0043229,intracellular organelle,0.304390624165535
+Q8DUR0,Cellular Component,GO:0110165,cellular anatomical structure,0.359313869476318
+Q8DUR0,Cellular Component,GO:0016020,membrane,0.312518414855003
+Q8DVP5,Cellular Component,GO:0110165,cellular anatomical structure,0.664284458756447
+Q8DVP5,Cellular Component,GO:0005622,intracellular anatomical structure,0.635966286063194
+Q8DVP5,Cellular Component,GO:0005737,cytoplasm,0.586482185125351
+Q8DVP5,Cellular Component,GO:0005829,cytosol,0.379103936254978
+Q8DVP5,Cellular Component,GO:0016020,membrane,0.365780504047871
+Q8DVP5,Cellular Component,GO:0043226,organelle,0.35899043828249
+Q8DVP5,Cellular Component,GO:0043229,intracellular organelle,0.345515114068985
+Q8DVP5,Cellular Component,GO:0043227,membrane-bounded organelle,0.321870073676109
+Q8DVP5,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.31904888600111
+Q8DVP5,Molecular Function,GO:0003824,catalytic activity,0.68551828622818
+Q8DVP5,Molecular Function,GO:0005488,binding,0.612469811439514
+Q8DVP5,Molecular Function,GO:0016787,hydrolase activity,0.585085136890411
+Q8DVP5,Molecular Function,GO:0036094,small molecule binding,0.564517031908035
+Q8DVP5,Molecular Function,GO:0043167,ion binding,0.558633831739426
+Q8DVP5,Molecular Function,GO:0016788,"hydrolase activity, acting on ester bonds",0.554740555286407
+Q8DVP5,Molecular Function,GO:0043169,cation binding,0.54324724316597
+Q8DVP5,Molecular Function,GO:0046872,metal ion binding,0.541375833749771
+Q8DVP5,Molecular Function,GO:0000287,magnesium ion binding,0.503343386650085
+Q8DVP5,Molecular Function,GO:0016791,phosphatase activity,0.460188202857971
+Q8DVP5,Molecular Function,GO:0042578,phosphoric ester hydrolase activity,0.460188202857971
+Q8DVP5,Molecular Function,GO:0019203,carbohydrate phosphatase activity,0.319817047119141
+Q8DVP5,Molecular Function,GO:0050308,sugar-phosphatase activity,0.319817047119141
+Q8DVP5,Biological Process,GO:0009987,cellular process,0.494355939626694
+Q8DVP5,Biological Process,GO:0008152,metabolic process,0.43780963152647
+Q8DVP5,Biological Process,GO:0009058,biosynthetic process,0.303539377748966
+Q8DV06,Cellular Component,GO:0110165,cellular anatomical structure,0.660056012868881
+Q8DV06,Cellular Component,GO:0005622,intracellular anatomical structure,0.651457011699677
+Q8DV06,Cellular Component,GO:0005737,cytoplasm,0.593204152584076
+Q8DV06,Cellular Component,GO:0005829,cytosol,0.403572216629982
+Q8DV06,Cellular Component,GO:0043226,organelle,0.306982836872339
+Q8DV06,Cellular Component,GO:0016020,membrane,0.300086206942797
+Q8DV06,Molecular Function,GO:0003824,catalytic activity,0.833406002521515
+Q8DV06,Molecular Function,GO:0016787,hydrolase activity,0.689223062992096
+Q8DV06,Molecular Function,GO:0016788,"hydrolase activity, acting on ester bonds",0.65670392870903
+Q8DV06,Molecular Function,GO:0005488,binding,0.617815272808075
+Q8DV06,Molecular Function,GO:0036094,small molecule binding,0.606420562267303
+Q8DV06,Molecular Function,GO:0043167,ion binding,0.593267803192139
+Q8DV06,Molecular Function,GO:0043169,cation binding,0.584264507293701
+Q8DV06,Molecular Function,GO:0046872,metal ion binding,0.582495472431183
+Q8DV06,Molecular Function,GO:0016791,phosphatase activity,0.564938745498657
+Q8DV06,Molecular Function,GO:0042578,phosphoric ester hydrolase activity,0.564938745498657
+Q8DV06,Molecular Function,GO:0000287,magnesium ion binding,0.526771410703659
+Q8DV06,Molecular Function,GO:0019203,carbohydrate phosphatase activity,0.39976001739502
+Q8DV06,Molecular Function,GO:0050308,sugar-phosphatase activity,0.39976001739502
+Q8DV06,Biological Process,GO:0009987,cellular process,0.461908150613308
+Q8DV06,Biological Process,GO:0008152,metabolic process,0.457213589251041
+Q8DV06,Biological Process,GO:0009058,biosynthetic process,0.331834870576859
+Q8DTZ9,Cellular Component,GO:0110165,cellular anatomical structure,0.348005059361458
+Q8DTZ9,Cellular Component,GO:0005622,intracellular anatomical structure,0.348005059361458
+Q8DTZ9,Cellular Component,GO:0043226,organelle,0.316736376285553
+Q8DTZ9,Cellular Component,GO:0043229,intracellular organelle,0.316736376285553
+Q8DRT6,Cellular Component,GO:0110165,cellular anatomical structure,0.324214643239975
+Q8DTW4,Cellular Component,GO:0110165,cellular anatomical structure,0.326531347632408
+Q8DTW4,Cellular Component,GO:0005622,intracellular anatomical structure,0.326531347632408
+Q8DTW4,Cellular Component,GO:0043226,organelle,0.305407476425171
+Q8DTW4,Cellular Component,GO:0043229,intracellular organelle,0.305407476425171
+Q8DSK8,Cellular Component,GO:0110165,cellular anatomical structure,0.393430066108704
+Q8DSK8,Cellular Component,GO:0005622,intracellular anatomical structure,0.393430066108704
+Q8DSK8,Cellular Component,GO:0043226,organelle,0.381890881061554
+Q8DSK8,Cellular Component,GO:0043229,intracellular organelle,0.381890881061554
+Q8DSK8,Cellular Component,GO:0043227,membrane-bounded organelle,0.362369978427887
+Q8DSK8,Cellular Component,GO:0016020,membrane,0.362369978427887
+Q8DSK8,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.354448047280312
+Q8DSK8,Cellular Component,GO:0005737,cytoplasm,0.303230917453766
+Q8DVQ5,Cellular Component,GO:0110165,cellular anatomical structure,0.786055916547775
+Q8DVQ5,Cellular Component,GO:0005622,intracellular anatomical structure,0.778101342916489
+Q8DVQ5,Cellular Component,GO:0005737,cytoplasm,0.712964192032814
+Q8DVQ5,Biological Process,GO:0009987,cellular process,0.580388302206993
+Q8DVQ5,Biological Process,GO:0008152,metabolic process,0.536559266149998
+Q8DVQ5,Biological Process,GO:0044238,primary metabolic process,0.523666116297245
+Q8DVQ5,Biological Process,GO:0043170,macromolecule metabolic process,0.478731160759926
+Q8DVQ5,Biological Process,GO:0009058,biosynthetic process,0.469124782681465
+Q8DVQ5,Biological Process,GO:0009059,macromolecule biosynthetic process,0.440823902189732
+Q8DVQ5,Biological Process,GO:0006139,nucleobase-containing compound metabolic process,0.420146183371544
+Q8DVQ5,Biological Process,GO:0034654,nucleobase-containing compound biosynthetic process,0.412424657046795
+Q8DVQ5,Biological Process,GO:0090304,nucleic acid metabolic process,0.400249651670456
+Q8DVQ5,Biological Process,GO:0141187,nucleic acid biosynthetic process,0.398624897301197
+Q8DVQ5,Biological Process,GO:0006259,DNA metabolic process,0.368098393082619
+Q8DVQ5,Biological Process,GO:0006260,DNA replication,0.35743340075016
+Q8DVQ5,Biological Process,GO:0006261,DNA-templated DNA replication,0.35743340075016
+Q8DVQ5,Biological Process,GO:0006270,DNA replication initiation,0.35743340075016
+Q8DVQ5,Biological Process,GO:0071897,DNA biosynthetic process,0.35743340075016
+Q8DVQ5,Biological Process,GO:0065007,biological regulation,0.328928548693657
+Q8DVQ5,Biological Process,GO:0050789,regulation of biological process,0.319209091365337
+Q8DVQ5,Biological Process,GO:0050794,regulation of cellular process,0.318609268069267
+Q8DU40,Cellular Component,GO:0110165,cellular anatomical structure,0.391253185272217
+Q8DU40,Cellular Component,GO:0016020,membrane,0.349820271134376
+Q8DU40,Cellular Component,GO:0005622,intracellular anatomical structure,0.337052044272423
+Q8DU40,Cellular Component,GO:0043226,organelle,0.324774178862572
+Q8DU40,Cellular Component,GO:0043229,intracellular organelle,0.322088938951492
+Q8DT21,Cellular Component,GO:0110165,cellular anatomical structure,0.381031849980354
+Q8DT21,Cellular Component,GO:0005622,intracellular anatomical structure,0.381031849980354
+Q8DT21,Cellular Component,GO:0043226,organelle,0.357792386412621
+Q8DT21,Cellular Component,GO:0043229,intracellular organelle,0.345379203557968
+Q8DT21,Cellular Component,GO:0043227,membrane-bounded organelle,0.321047866344452
+Q8DT21,Cellular Component,GO:0016020,membrane,0.321047866344452
+Q8DT21,Cellular Component,GO:0005737,cytoplasm,0.314030134677887
+Q8DT21,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.302476331591606
+Q8DWC5,Cellular Component,GO:0110165,cellular anatomical structure,0.313798016309738
+Q8DWC5,Molecular Function,GO:0003824,catalytic activity,0.820761232376099
+Q8DWC5,Molecular Function,GO:0016829,lyase activity,0.652967332601547
+Q8DWC5,Molecular Function,GO:0016830,carbon-carbon lyase activity,0.643692382574081
+Q8DWC5,Molecular Function,GO:0016831,carboxy-lyase activity,0.64
+Q8DWC5,Molecular Function,GO:0046564,oxalate decarboxylase activity,0.64
+Q8DWC5,Biological Process,GO:0009987,cellular process,0.831521030068398
+Q8DWC5,Biological Process,GO:0008152,metabolic process,0.815982785820961
+Q8DWC5,Biological Process,GO:0044281,small molecule metabolic process,0.697742384672165
+Q8DWC5,Biological Process,GO:0006082,organic acid metabolic process,0.67085802257061
+Q8DWC5,Biological Process,GO:0043436,oxoacid metabolic process,0.67085802257061
+Q8DWC5,Biological Process,GO:0019752,carboxylic acid metabolic process,0.665879990160465
+Q8DWC5,Biological Process,GO:0043648,dicarboxylic acid metabolic process,0.616071945428848
+Q8DWC5,Biological Process,GO:0033609,oxalate metabolic process,0.61
+Q8DWK9,Cellular Component,GO:0110165,cellular anatomical structure,0.886423361301422
+Q8DWK9,Cellular Component,GO:0005622,intracellular anatomical structure,0.880347084999084
+Q8DWK9,Cellular Component,GO:0043226,organelle,0.836303362250328
+Q8DWK9,Cellular Component,GO:0043229,intracellular organelle,0.833914399147034
+Q8DWK9,Cellular Component,GO:0016020,membrane,0.825642976164818
+Q8DWK9,Cellular Component,GO:0043227,membrane-bounded organelle,0.81953250169754
+Q8DWK9,Cellular Component,GO:0005737,cytoplasm,0.814531818032265
+Q8DWK9,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.801081934571266
+Q8DWK9,Cellular Component,GO:0005634,nucleus,0.667513826489449
+Q8DWK9,Cellular Component,GO:0071944,cell periphery,0.665591084957123
+Q8DWK9,Cellular Component,GO:0005886,plasma membrane,0.664554867148399
+Q8DWK9,Cellular Component,GO:0005829,cytosol,0.658210611343384
+Q8DWK9,Cellular Component,GO:0032991,protein-containing complex,0.6479223549366
+Q8DWK9,Cellular Component,GO:0042995,cell projection,0.575840562582016
+Q8DWK9,Cellular Component,GO:0098590,plasma membrane region,0.573539924621582
+Q8DWK9,Cellular Component,GO:0120025,plasma membrane bounded cell projection,0.572027480602264
+Q8DWK9,Cellular Component,GO:0005929,cilium,0.561274571716786
+Q8DWK9,Cellular Component,GO:0030990,intraciliary transport particle,0.561274571716786
+Q8DWK9,Cellular Component,GO:0031974,membrane-enclosed lumen,0.33208025097847
+Q8DWK9,Cellular Component,GO:0043233,organelle lumen,0.331934057176113
+Q8DWK9,Cellular Component,GO:0070013,intracellular organelle lumen,0.331934057176113
+Q8DWK9,Cellular Component,GO:0031981,nuclear lumen,0.307403002679348
+Q8DWK9,Cellular Component,GO:0140535,intracellular protein-containing complex,0.306641778349876
+Q8DWK9,Molecular Function,GO:0005488,binding,0.756466407775879
+Q8DWK9,Molecular Function,GO:0005515,protein binding,0.703503476381302
+Q8DWK9,Molecular Function,GO:0003676,nucleic acid binding,0.349020611047745
+Q8DWK9,Molecular Function,GO:0003677,DNA binding,0.336275386810303
+Q8DWK9,Molecular Function,GO:0003690,double-stranded DNA binding,0.33349981546402
+Q8DWK9,Molecular Function,GO:0001067,transcription regulatory region nucleic acid binding,0.333469710350037
+Q8DWK9,Molecular Function,GO:0000976,transcription cis-regulatory region binding,0.333187745809555
+Q8DWK9,Molecular Function,GO:0043565,sequence-specific DNA binding,0.333187745809555
+Q8DWK9,Molecular Function,GO:1990837,sequence-specific double-stranded DNA binding,0.333187745809555
+Q8DWK9,Molecular Function,GO:0140110,transcription regulator activity,0.330408494472504
+Q8DWK9,Molecular Function,GO:0019899,enzyme binding,0.330144382715225
+Q8DWK9,Molecular Function,GO:0030674,protein-macromolecule adaptor activity,0.328735568523407
+Q8DWK9,Molecular Function,GO:0060090,molecular adaptor activity,0.328735568523407
+Q8DWK9,Molecular Function,GO:0003700,DNA-binding transcription factor activity,0.326785205602646
+Q8DWK9,Molecular Function,GO:0019900,kinase binding,0.326085546016693
+Q8DWK9,Molecular Function,GO:0019901,protein kinase binding,0.325772585868835
+Q8DWK9,Molecular Function,GO:0003712,transcription coregulator activity,0.325048035383224
+Q8DWK9,Molecular Function,GO:0003714,transcription corepressor activity,0.321409683227539
+Q8DWK9,Molecular Function,GO:0008013,beta-catenin binding,0.318590316772461
+Q8DWK9,Biological Process,GO:0009987,cellular process,0.812757359743118
+Q8DWK9,Biological Process,GO:0008152,metabolic process,0.772107757925987
+Q8DWK9,Biological Process,GO:0044238,primary metabolic process,0.750792604088783
+Q8DWK9,Biological Process,GO:0043170,macromolecule metabolic process,0.704330026805401
+Q8DWK9,Biological Process,GO:0009058,biosynthetic process,0.704191632866859
+Q8DWK9,Biological Process,GO:0050896,response to stimulus,0.692831079363823
+Q8DWK9,Biological Process,GO:0009059,macromolecule biosynthetic process,0.686380889713764
+Q8DWK9,Biological Process,GO:0065007,biological regulation,0.678271297812462
+Q8DWK9,Biological Process,GO:0010467,gene expression,0.674649972319603
+Q8DWK9,Biological Process,GO:0006139,nucleobase-containing compound metabolic process,0.673894460201263
+Q8DWK9,Biological Process,GO:0032502,developmental process,0.671930630803108
+Q8DWK9,Biological Process,GO:0050789,regulation of biological process,0.670499014258385
+Q8DWK9,Biological Process,GO:0050794,regulation of cellular process,0.667337130606175
+Q8DWK9,Biological Process,GO:0032501,multicellular organismal process,0.667299239933491
+Q8DWK9,Biological Process,GO:0034654,nucleobase-containing compound biosynthetic process,0.663682958781719
+Q8DWK9,Biological Process,GO:0090304,nucleic acid metabolic process,0.65690467774868
+Q8DWK9,Biological Process,GO:0016070,RNA metabolic process,0.653805046379566
+Q8DWK9,Biological Process,GO:0032774,RNA biosynthetic process,0.653721245229244
+Q8DWK9,Biological Process,GO:0141187,nucleic acid biosynthetic process,0.653721245229244
+Q8DWK9,Biological Process,GO:0019222,regulation of metabolic process,0.651472898721695
+Q8DWK9,Biological Process,GO:0009889,regulation of biosynthetic process,0.646651252508163
+Q8DWK9,Biological Process,GO:0010556,regulation of macromolecule biosynthetic process,0.645949310362339
+Q8DWK9,Biological Process,GO:0060255,regulation of macromolecule metabolic process,0.645949310362339
+Q8DWK9,Biological Process,GO:0010468,regulation of gene expression,0.645383472442627
+Q8DWK9,Biological Process,GO:0080090,regulation of primary metabolic process,0.643530420958996
+Q8DWK9,Biological Process,GO:0051716,cellular response to stimulus,0.640509976446629
+Q8DWK9,Biological Process,GO:0006351,DNA-templated transcription,0.640126548409462
+Q8DWK9,Biological Process,GO:0048519,negative regulation of biological process,0.636952728033066
+Q8DWK9,Biological Process,GO:0019219,regulation of nucleobase-containing compound metabolic process,0.636467169523239
+Q8DWK9,Biological Process,GO:0048523,negative regulation of cellular process,0.636152060925961
+Q8DWK9,Biological Process,GO:0048869,cellular developmental process,0.635934607982635
+Q8DWK9,Biological Process,GO:0006355,regulation of DNA-templated transcription,0.63527794867754
+Q8DWK9,Biological Process,GO:0051252,regulation of RNA metabolic process,0.63527794867754
+Q8DWK9,Biological Process,GO:2001141,regulation of RNA biosynthetic process,0.63527794867754
+Q8DWK9,Biological Process,GO:0048583,regulation of response to stimulus,0.63522820264101
+Q8DWK9,Biological Process,GO:0030154,cell differentiation,0.63346339225769
+Q8DWK9,Biological Process,GO:0009892,negative regulation of metabolic process,0.626945568919182
+Q8DWK9,Biological Process,GO:0010605,negative regulation of macromolecule metabolic process,0.626945568919182
+Q8DWK9,Biological Process,GO:0023052,signaling,0.625692050158978
+Q8DWK9,Biological Process,GO:0007154,cell communication,0.624534978270531
+Q8DWK9,Biological Process,GO:0009890,negative regulation of biosynthetic process,0.623786858320236
+Q8DWK9,Biological Process,GO:0010558,negative regulation of macromolecule biosynthetic process,0.6234951582551
+Q8DWK9,Biological Process,GO:0007165,signal transduction,0.623434103131294
+Q8DWK9,Biological Process,GO:0023051,regulation of signaling,0.620925357043743
+Q8DWK9,Biological Process,GO:0010646,regulation of cell communication,0.620662214457989
+Q8DWK9,Biological Process,GO:0006366,transcription by RNA polymerase II,0.619482071101666
+Q8DWK9,Biological Process,GO:0009966,regulation of signal transduction,0.619368689656258
+Q8DWK9,Biological Process,GO:0048585,negative regulation of response to stimulus,0.618840219378471
+Q8DWK9,Biological Process,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,0.618136928975582
+Q8DWK9,Biological Process,GO:0051253,negative regulation of RNA metabolic process,0.616658274531364
+Q8DWK9,Biological Process,GO:1902679,negative regulation of RNA biosynthetic process,0.616658274531364
+Q8DWK9,Biological Process,GO:0006357,regulation of transcription by RNA polymerase II,0.616287015676498
+Q8DWK9,Biological Process,GO:0045892,negative regulation of DNA-templated transcription,0.616222496926785
+Q8DWK9,Biological Process,GO:0010648,negative regulation of cell communication,0.615913653075695
+Q8DWK9,Biological Process,GO:0023057,negative regulation of signaling,0.615392330884934
+Q8DWK9,Biological Process,GO:0009968,negative regulation of signal transduction,0.615077873170376
+Q8DWK9,Biological Process,GO:0007166,cell surface receptor signaling pathway,0.61393544614315
+Q8DWK9,Biological Process,GO:0000122,negative regulation of transcription by RNA polymerase II,0.61
+Q8DWK9,Biological Process,GO:0007224,smoothened signaling pathway,0.61
+Q8DWK9,Biological Process,GO:0008589,regulation of smoothened signaling pathway,0.61
+Q8DWK9,Biological Process,GO:0045879,negative regulation of smoothened signaling pathway,0.61
+Q8DWK9,Biological Process,GO:0048856,anatomical structure development,0.356125830113888
+Q8DWK9,Biological Process,GO:0007275,multicellular organism development,0.347728629410267
+Q8DWK9,Biological Process,GO:0019538,protein metabolic process,0.34683732688427
+Q8DWK9,Biological Process,GO:0009056,catabolic process,0.345965353250503
+Q8DWK9,Biological Process,GO:0051179,localization,0.345053436160088
+Q8DWK9,Biological Process,GO:0051234,establishment of localization,0.344367707967758
+Q8DWK9,Biological Process,GO:0006810,transport,0.34282760322094
+Q8DWK9,Biological Process,GO:0051641,cellular localization,0.336275410950184
+Q8DWK9,Biological Process,GO:0048731,system development,0.332110326588154
+Q8DWK9,Biological Process,GO:0033036,macromolecule localization,0.330724613368511
+Q8DWK9,Biological Process,GO:0043412,macromolecule modification,0.329114545881748
+Q8DWK9,Biological Process,GO:0046907,intracellular transport,0.325895168185234
+Q8DWK9,Biological Process,GO:0051649,establishment of localization in cell,0.325895168185234
+Q8DWK9,Biological Process,GO:0070727,cellular macromolecule localization,0.324436691105366
+Q8DWK9,Biological Process,GO:0008104,protein localization,0.32409897595644
+Q8DWK9,Biological Process,GO:0071705,nitrogen compound transport,0.322385492324829
+Q8DWK9,Biological Process,GO:0036211,protein modification process,0.320573872029781
+Q8DWK9,Biological Process,GO:0009653,anatomical structure morphogenesis,0.319616342186928
+Q8DWK9,Biological Process,GO:0009888,tissue development,0.319372923672199
+Q8DWK9,Biological Process,GO:0050793,regulation of developmental process,0.319356644451618
+Q8DWK9,Biological Process,GO:0033365,protein localization to organelle,0.318744861185551
+Q8DWK9,Biological Process,GO:0032879,regulation of localization,0.318086900115013
+Q8DWK9,Biological Process,GO:0048513,animal organ development,0.316936204731464
+Q8DWK9,Biological Process,GO:0009057,macromolecule catabolic process,0.316842431128025
+Q8DWK9,Biological Process,GO:0015031,protein transport,0.316111924350262
+Q8DWK9,Biological Process,GO:0045184,establishment of protein localization,0.316111924350262
+Q8DWK9,Biological Process,GO:0051049,regulation of transport,0.315187694132328
+Q8DWK9,Biological Process,GO:0006508,proteolysis,0.314933938384056
+Q8DWK9,Biological Process,GO:0051246,regulation of protein metabolic process,0.313847173452377
+Q8DWK9,Biological Process,GO:0006886,intracellular protein transport,0.313496131300926
+Q8DWK9,Biological Process,GO:0065009,regulation of molecular function,0.312251062393189
+Q8DWK9,Biological Process,GO:0072594,establishment of protein localization to organelle,0.311128742992878
+Q8DWK9,Biological Process,GO:0009790,embryo development,0.311103760898113
+Q8DWK9,Biological Process,GO:0030163,protein catabolic process,0.310931125879288
+Q8DWK9,Biological Process,GO:0045595,regulation of cell differentiation,0.310781171619892
+Q8DWK9,Biological Process,GO:0060429,epithelium development,0.310714184343815
+Q8DWK9,Biological Process,GO:0051093,negative regulation of developmental process,0.31060207426548
+Q8DWK9,Biological Process,GO:0060341,regulation of cellular localization,0.310418874025345
+Q8DWK9,Biological Process,GO:0051603,proteolysis involved in protein catabolic process,0.310311497151852
+Q8DWK9,Biological Process,GO:0043687,post-translational protein modification,0.310276651680469
+Q8DWK9,Biological Process,GO:0019941,modification-dependent protein catabolic process,0.310250302553177
+Q8DWK9,Biological Process,GO:0043632,modification-dependent macromolecule catabolic process,0.310250302553177
+Q8DWK9,Biological Process,GO:0032446,protein modification by small protein conjugation,0.310143639147282
+Q8DWK9,Biological Process,GO:0070647,protein modification by small protein conjugation or removal,0.310143639147282
+Q8DWK9,Biological Process,GO:0006511,ubiquitin-dependent protein catabolic process,0.309915620982647
+Q8DWK9,Biological Process,GO:0016567,protein ubiquitination,0.309915620982647
+Q8DWK9,Biological Process,GO:0007399,nervous system development,0.309080829024315
+Q8DWK9,Biological Process,GO:0022008,neurogenesis,0.308937448859215
+Q8DWK9,Biological Process,GO:0048699,generation of neurons,0.308937448859215
+Q8DWK9,Biological Process,GO:0009894,regulation of catabolic process,0.308916887938976
+Q8DWK9,Biological Process,GO:0035295,tube development,0.308421903252602
+Q8DWK9,Biological Process,GO:0030182,neuron differentiation,0.308281719386578
+Q8DWK9,Biological Process,GO:0051248,negative regulation of protein metabolic process,0.30826545894146
+Q8DWK9,Biological Process,GO:0048646,anatomical structure formation involved in morphogenesis,0.308169790804386
+Q8DWK9,Biological Process,GO:0072359,circulatory system development,0.308080003857613
+Q8DWK9,Biological Process,GO:0035239,tube morphogenesis,0.307934240996838
+Q8DWK9,Biological Process,GO:0001503,ossification,0.306343604326248
+Q8DWK9,Biological Process,GO:0001649,osteoblast differentiation,0.306343604326248
+Q8DWK9,Biological Process,GO:0006606,protein import into nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:0006913,nucleocytoplasmic transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0032386,regulation of intracellular transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0032387,negative regulation of intracellular transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0032880,regulation of protein localization,0.306343604326248
+Q8DWK9,Biological Process,GO:0033157,regulation of intracellular protein transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0034504,protein localization to nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:0042306,regulation of protein import into nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:0042308,negative regulation of protein import into nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:0043433,negative regulation of DNA-binding transcription factor activity,0.306343604326248
+Q8DWK9,Biological Process,GO:0044092,negative regulation of molecular function,0.306343604326248
+Q8DWK9,Biological Process,GO:0045596,negative regulation of cell differentiation,0.306343604326248
+Q8DWK9,Biological Process,GO:0045667,regulation of osteoblast differentiation,0.306343604326248
+Q8DWK9,Biological Process,GO:0045668,negative regulation of osteoblast differentiation,0.306343604326248
+Q8DWK9,Biological Process,GO:0046822,regulation of nucleocytoplasmic transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0046823,negative regulation of nucleocytoplasmic transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0051051,negative regulation of transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0051090,regulation of DNA-binding transcription factor activity,0.306343604326248
+Q8DWK9,Biological Process,GO:0051169,nuclear transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0051170,import into nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:0051223,regulation of protein transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0051224,negative regulation of protein transport,0.306343604326248
+Q8DWK9,Biological Process,GO:0070201,regulation of establishment of protein localization,0.306343604326248
+Q8DWK9,Biological Process,GO:0090317,negative regulation of intracellular protein transport,0.306343604326248
+Q8DWK9,Biological Process,GO:1900180,regulation of protein localization to nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:1900181,negative regulation of protein localization to nucleus,0.306343604326248
+Q8DWK9,Biological Process,GO:1903828,negative regulation of protein localization,0.306343604326248
+Q8DWK9,Biological Process,GO:1904950,negative regulation of establishment of protein localization,0.306343604326248
+Q8DWK9,Biological Process,GO:0001568,blood vessel development,0.303656395673752
+Q8DWK9,Biological Process,GO:0001708,cell fate specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0001838,embryonic epithelial tube formation,0.303656395673752
+Q8DWK9,Biological Process,GO:0001841,neural tube formation,0.303656395673752
+Q8DWK9,Biological Process,GO:0001843,neural tube closure,0.303656395673752
+Q8DWK9,Biological Process,GO:0001944,vasculature development,0.303656395673752
+Q8DWK9,Biological Process,GO:0001947,heart looping,0.303656395673752
+Q8DWK9,Biological Process,GO:0002009,morphogenesis of an epithelium,0.303656395673752
+Q8DWK9,Biological Process,GO:0003002,regionalization,0.303656395673752
+Q8DWK9,Biological Process,GO:0003007,heart morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0003143,embryonic heart tube morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0003205,cardiac chamber development,0.303656395673752
+Q8DWK9,Biological Process,GO:0003231,cardiac ventricle development,0.303656395673752
+Q8DWK9,Biological Process,GO:0003279,cardiac septum development,0.303656395673752
+Q8DWK9,Biological Process,GO:0003281,ventricular septum development,0.303656395673752
+Q8DWK9,Biological Process,GO:0007368,determination of left/right symmetry,0.303656395673752
+Q8DWK9,Biological Process,GO:0007389,pattern specification process,0.303656395673752
+Q8DWK9,Biological Process,GO:0007417,central nervous system development,0.303656395673752
+Q8DWK9,Biological Process,GO:0007507,heart development,0.303656395673752
+Q8DWK9,Biological Process,GO:0009792,embryo development ending in birth or egg hatching,0.303656395673752
+Q8DWK9,Biological Process,GO:0009799,specification of symmetry,0.303656395673752
+Q8DWK9,Biological Process,GO:0009855,determination of bilateral symmetry,0.303656395673752
+Q8DWK9,Biological Process,GO:0009887,animal organ morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0009895,negative regulation of catabolic process,0.303656395673752
+Q8DWK9,Biological Process,GO:0009953,dorsal/ventral pattern formation,0.303656395673752
+Q8DWK9,Biological Process,GO:0014020,primary neural tube formation,0.303656395673752
+Q8DWK9,Biological Process,GO:0016331,morphogenesis of embryonic epithelium,0.303656395673752
+Q8DWK9,Biological Process,GO:0021510,spinal cord development,0.303656395673752
+Q8DWK9,Biological Process,GO:0021511,spinal cord patterning,0.303656395673752
+Q8DWK9,Biological Process,GO:0021513,spinal cord dorsal/ventral patterning,0.303656395673752
+Q8DWK9,Biological Process,GO:0021514,ventral spinal cord interneuron differentiation,0.303656395673752
+Q8DWK9,Biological Process,GO:0021515,cell differentiation in spinal cord,0.303656395673752
+Q8DWK9,Biological Process,GO:0021517,ventral spinal cord development,0.303656395673752
+Q8DWK9,Biological Process,GO:0021520,spinal cord motor neuron cell fate specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0021521,ventral spinal cord interneuron specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0021522,spinal cord motor neuron differentiation,0.303656395673752
+Q8DWK9,Biological Process,GO:0021775,smoothened signaling pathway involved in ventral spinal cord interneuron specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0021776,smoothened signaling pathway involved in spinal cord motor neuron cell fate specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0021910,smoothened signaling pathway involved in ventral spinal cord patterning,0.303656395673752
+Q8DWK9,Biological Process,GO:0021915,neural tube development,0.303656395673752
+Q8DWK9,Biological Process,GO:0021953,central nervous system neuron differentiation,0.303656395673752
+Q8DWK9,Biological Process,GO:0030162,regulation of proteolysis,0.303656395673752
+Q8DWK9,Biological Process,GO:0035050,embryonic heart tube development,0.303656395673752
+Q8DWK9,Biological Process,GO:0035148,tube formation,0.303656395673752
+Q8DWK9,Biological Process,GO:0035904,aorta development,0.303656395673752
+Q8DWK9,Biological Process,GO:0043009,chordate embryonic development,0.303656395673752
+Q8DWK9,Biological Process,GO:0043588,skin development,0.303656395673752
+Q8DWK9,Biological Process,GO:0045165,cell fate commitment,0.303656395673752
+Q8DWK9,Biological Process,GO:0045861,negative regulation of proteolysis,0.303656395673752
+Q8DWK9,Biological Process,GO:0048562,embryonic organ morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0048568,embryonic organ development,0.303656395673752
+Q8DWK9,Biological Process,GO:0048598,embryonic morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0048663,neuron fate commitment,0.303656395673752
+Q8DWK9,Biological Process,GO:0048665,neuron fate specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0048729,tissue morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0060562,epithelial tube morphogenesis,0.303656395673752
+Q8DWK9,Biological Process,GO:0060573,cell fate specification involved in pattern specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0060579,ventral spinal cord interneuron fate commitment,0.303656395673752
+Q8DWK9,Biological Process,GO:0060581,cell fate commitment involved in pattern specification,0.303656395673752
+Q8DWK9,Biological Process,GO:0060606,tube closure,0.303656395673752
+Q8DWK9,Biological Process,GO:0060840,artery development,0.303656395673752
+Q8DWK9,Biological Process,GO:0060972,left/right pattern formation,0.303656395673752
+Q8DWK9,Biological Process,GO:0060976,coronary vasculature development,0.303656395673752
+Q8DWK9,Biological Process,GO:0061371,determination of heart left/right asymmetry,0.303656395673752
+Q8DWK9,Biological Process,GO:0072175,epithelial tube formation,0.303656395673752
+Q8DWK9,Biological Process,GO:1903050,regulation of proteolysis involved in protein catabolic process,0.303656395673752
+Q8DWK9,Biological Process,GO:1903051,negative regulation of proteolysis involved in protein catabolic process,0.303656395673752
+Q8DWK9,Biological Process,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,0.303656395673752
+Q8DWK9,Biological Process,GO:2000059,negative regulation of ubiquitin-dependent protein catabolic process,0.303656395673752
+Q8DUX3,Cellular Component,GO:0110165,cellular anatomical structure,0.381417122483253
+Q8DUX3,Cellular Component,GO:0005622,intracellular anatomical structure,0.369666150212288
+Q8DUX3,Cellular Component,GO:0043226,organelle,0.362419974803925
+Q8DUX3,Cellular Component,GO:0043229,intracellular organelle,0.352800071239471
+Q8DUX3,Cellular Component,GO:0016020,membrane,0.326137706637382
+Q8DUX3,Cellular Component,GO:0043227,membrane-bounded organelle,0.320802175998688
+Q8DUX3,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.320802175998688
+Q8DU76,Cellular Component,GO:0110165,cellular anatomical structure,0.354051804542541
+Q8DU76,Cellular Component,GO:0016020,membrane,0.309672886133194
+Q8DTW5,Cellular Component,GO:0110165,cellular anatomical structure,0.338267540931702
+Q8DTW5,Cellular Component,GO:0005622,intracellular anatomical structure,0.338267540931702
+I6L8Y8,Cellular Component,GO:0110165,cellular anatomical structure,0.312685623764992
+I6L8Y8,Molecular Function,GO:0003824,catalytic activity,0.785076887607574
+I6L8Y8,Molecular Function,GO:0016740,transferase activity,0.682424714565277
+I6L8Y8,Molecular Function,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",0.64
+Q8DVS4,Cellular Component,GO:0110165,cellular anatomical structure,0.68024238049984
+Q8DVS4,Cellular Component,GO:0016020,membrane,0.632379004359245
+Q8DVS4,Cellular Component,GO:0005886,plasma membrane,0.447943164408207
+Q8DVS4,Cellular Component,GO:0071944,cell periphery,0.447943164408207
+Q8DVS4,Cellular Component,GO:0005622,intracellular anatomical structure,0.409636777639389
+Q8DVS4,Cellular Component,GO:0043226,organelle,0.383290940523148
+Q8DVS4,Cellular Component,GO:0043229,intracellular organelle,0.381443810462952
+Q8DVS4,Cellular Component,GO:0043227,membrane-bounded organelle,0.343326160311699
+Q8DVS4,Cellular Component,GO:0005737,cytoplasm,0.33683540225029
+Q8DVS4,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.318754389882088
+Q8DVS4,Molecular Function,GO:0005488,binding,0.491885770559311
+Q8DVS4,Molecular Function,GO:0003676,nucleic acid binding,0.368526343107224
+Q8DVS4,Molecular Function,GO:0003677,DNA binding,0.343997573852539
+Q8DVS4,Biological Process,GO:0009987,cellular process,0.815581051707268
+Q8DVS4,Biological Process,GO:0071840,cellular component organization or biogenesis,0.797745342552662
+Q8DVS4,Biological Process,GO:0016043,cellular component organization,0.787102666199207
+Q8DVS4,Biological Process,GO:0090143,nucleoid organization,0.61
+Q8DVS4,Biological Process,GO:0007049,cell cycle,0.393527163267136
+Q8DVS4,Biological Process,GO:0022402,cell cycle process,0.388040663599968
+Q8DVS4,Biological Process,GO:0065007,biological regulation,0.387430158853531
+Q8DVS4,Biological Process,GO:0050789,regulation of biological process,0.383062677681446
+Q8DVS4,Biological Process,GO:0050794,regulation of cellular process,0.382325053215027
+Q8DVS4,Biological Process,GO:0048518,positive regulation of biological process,0.34987940967083
+Q8DVS4,Biological Process,GO:0048522,positive regulation of cellular process,0.341128163635731
+Q8DVS4,Biological Process,GO:0007059,chromosome segregation,0.336630633771419
+Q8DVS4,Biological Process,GO:0051726,regulation of cell cycle,0.323847483098507
+Q8DVS4,Biological Process,GO:0051301,cell division,0.321514347493649
+Q8DVS4,Biological Process,GO:0010564,regulation of cell cycle process,0.320712529718876
+Q8DVS4,Biological Process,GO:0045787,positive regulation of cell cycle,0.312519136667252
+Q8DVS4,Biological Process,GO:0090068,positive regulation of cell cycle process,0.311431488394737
+Q8DVS4,Biological Process,GO:0051983,regulation of chromosome segregation,0.31026804715395
+Q8DVS4,Biological Process,GO:0051984,positive regulation of chromosome segregation,0.305
+Q8DVH1,Cellular Component,GO:0110165,cellular anatomical structure,0.36180317401886
+Q8DVH1,Cellular Component,GO:0016020,membrane,0.319060671329498
+Q8DT86,Cellular Component,GO:0110165,cellular anatomical structure,0.346646654605865
+Q8DSA4,Cellular Component,GO:0110165,cellular anatomical structure,0.390275600552559
+Q8DSA4,Cellular Component,GO:0016020,membrane,0.32480625808239
+Q8DSA4,Cellular Component,GO:0005622,intracellular anatomical structure,0.306715509295464
+Q8DS98,Cellular Component,GO:0110165,cellular anatomical structure,0.384135675430298
+Q8DS98,Cellular Component,GO:0016020,membrane,0.378535544872284
+Q8DVI5,Cellular Component,GO:0110165,cellular anatomical structure,0.385788935422897
+Q8DVI5,Cellular Component,GO:0016020,membrane,0.343751907348633
+Q8DVI5,Cellular Component,GO:0043226,organelle,0.307128757238388
+Q8DVI5,Cellular Component,GO:0005622,intracellular anatomical structure,0.305086174607277
+Q8DVI5,Cellular Component,GO:0043229,intracellular organelle,0.305086174607277
+Q8DSR7,Cellular Component,GO:0110165,cellular anatomical structure,0.350014945864677
+Q8DUE8,Cellular Component,GO:0110165,cellular anatomical structure,0.316489666700363
+Q8DW70,Cellular Component,GO:0110165,cellular anatomical structure,0.370450240373611
+Q8DW70,Cellular Component,GO:0043226,organelle,0.326759362220764
+Q8DW70,Cellular Component,GO:0005622,intracellular anatomical structure,0.325772979855537
+Q8DW70,Cellular Component,GO:0043229,intracellular organelle,0.307660585641861
+Q8DUP2,Cellular Component,GO:0110165,cellular anatomical structure,0.578034281730652
+Q8DUP2,Cellular Component,GO:0016020,membrane,0.534821346402168
+Q8DUP2,Cellular Component,GO:0043226,organelle,0.337892353534698
+Q8DUP2,Cellular Component,GO:0005622,intracellular anatomical structure,0.331601312756538
+Q8DUP2,Cellular Component,GO:0043229,intracellular organelle,0.330861130356789
+Q8DUP2,Cellular Component,GO:0043227,membrane-bounded organelle,0.308530908823013
+Q8DUP2,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.308530908823013
+Q8DUP2,Molecular Function,GO:0005488,binding,0.556940451860428
+Q8DUP2,Molecular Function,GO:0005515,protein binding,0.489292061328888
+Q8DUP2,Molecular Function,GO:0042802,identical protein binding,0.448457489013672
+Q8DUP2,Biological Process,GO:0009987,cellular process,0.382753394544125
+Q8DWJ6,Cellular Component,GO:0110165,cellular anatomical structure,0.334956836700439
+Q8DWJ6,Molecular Function,GO:0005488,binding,0.734951078891754
+Q8DWJ6,Molecular Function,GO:0036094,small molecule binding,0.684030928611755
+Q8DWJ6,Molecular Function,GO:0043167,ion binding,0.679389580488205
+Q8DWJ6,Molecular Function,GO:0043168,anion binding,0.651586456298828
+Q8DWJ6,Molecular Function,GO:0008289,lipid binding,0.64693146109581
+Q8DWJ6,Molecular Function,GO:0005543,phospholipid binding,0.64
+Q8DWJ6,Molecular Function,GO:0005547,"phosphatidylinositol-3,4,5-trisphosphate binding",0.64
+Q8DWJ6,Molecular Function,GO:0035091,phosphatidylinositol binding,0.64
+Q8DWJ6,Molecular Function,GO:1901981,phosphatidylinositol phosphate binding,0.64
+Q8DT20,Cellular Component,GO:0110165,cellular anatomical structure,0.392321267724037
+Q8DT20,Cellular Component,GO:0005622,intracellular anatomical structure,0.392321267724037
+Q8DT20,Cellular Component,GO:0043226,organelle,0.367628502845764
+Q8DT20,Cellular Component,GO:0043229,intracellular organelle,0.367628502845764
+Q8DT20,Cellular Component,GO:0016020,membrane,0.335080486536026
+Q8DT20,Cellular Component,GO:0043227,membrane-bounded organelle,0.332286643981934
+Q8DT20,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.325541934370995
+Q8DT20,Cellular Component,GO:0005737,cytoplasm,0.30427263379097
+Q8DW94,Cellular Component,GO:0110165,cellular anatomical structure,0.317275661230087
+Q8DW94,Cellular Component,GO:0005622,intracellular anatomical structure,0.317275661230087
+Q8DSR6,Cellular Component,GO:0110165,cellular anatomical structure,0.403109434247017
+Q8DSR6,Cellular Component,GO:0016020,membrane,0.403109434247017
+Q8DSR6,Cellular Component,GO:0071944,cell periphery,0.363810002803802
+Q8DSR6,Cellular Component,GO:0005886,plasma membrane,0.360078942775726
+Q8DSR5,Cellular Component,GO:0110165,cellular anatomical structure,0.374355161190033
+Q8DSR5,Cellular Component,GO:0005622,intracellular anatomical structure,0.334179773926735
+Q8DSR5,Cellular Component,GO:0043226,organelle,0.314400815963745
+Q8DSR5,Cellular Component,GO:0016020,membrane,0.313876336812973
+Q8DSR5,Cellular Component,GO:0043229,intracellular organelle,0.308878576755524

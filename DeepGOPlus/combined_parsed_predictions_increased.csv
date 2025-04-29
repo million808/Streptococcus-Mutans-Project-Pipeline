@@ -1,0 +1,359 @@
+Protein,Section,GO_ID,Description,Score
+Q8DW46,Cellular Component,GO:0110165,cellular anatomical structure,0.318825495243072
+Q8DTW2,Cellular Component,GO:0110165,cellular anatomical structure,0.382988065481186
+Q8DTW2,Cellular Component,GO:0005622,intracellular anatomical structure,0.381008085608482
+Q8DTW2,Cellular Component,GO:0043226,organelle,0.353216940164566
+Q8DTW2,Cellular Component,GO:0043229,intracellular organelle,0.353216940164566
+Q8DTW2,Cellular Component,GO:0016020,membrane,0.317729920148849
+Q8DTW2,Cellular Component,GO:0043227,membrane-bounded organelle,0.305088400840759
+Q8DW89,Cellular Component,GO:0110165,cellular anatomical structure,0.711042699217796
+Q8DW89,Cellular Component,GO:0005622,intracellular anatomical structure,0.684390634298325
+Q8DW89,Cellular Component,GO:0005737,cytoplasm,0.634502954781055
+Q8DW89,Cellular Component,GO:0005829,cytosol,0.520053511857987
+Q8DW89,Cellular Component,GO:0016020,membrane,0.50857806801796
+Q8DW89,Cellular Component,GO:0043226,organelle,0.490464118123055
+Q8DW89,Cellular Component,GO:0043229,intracellular organelle,0.490464118123055
+Q8DW89,Cellular Component,GO:0043227,membrane-bounded organelle,0.470857894420624
+Q8DW89,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.457978141307831
+Q8DW89,Molecular Function,GO:0003824,catalytic activity,0.532783132791519
+Q8DW89,Molecular Function,GO:0016491,oxidoreductase activity,0.460745006799698
+Q8DW89,Molecular Function,GO:0005488,binding,0.442874174118042
+Q8DW89,Molecular Function,GO:0036094,small molecule binding,0.385986731052399
+Q8DW89,Molecular Function,GO:0005515,protein binding,0.384216344356537
+Q8DW89,Molecular Function,GO:0043167,ion binding,0.376355218887329
+Q8DW89,Molecular Function,GO:0042802,identical protein binding,0.360591200590134
+Q8DW89,Molecular Function,GO:1901363,heterocyclic compound binding,0.333925966024399
+Q8DW89,Molecular Function,GO:0043168,anion binding,0.33249365568161
+Q8DW89,Molecular Function,GO:1901265,nucleoside phosphate binding,0.331272317171097
+Q8DW89,Molecular Function,GO:0097367,carbohydrate derivative binding,0.329992334842682
+Q8DW89,Molecular Function,GO:0000166,nucleotide binding,0.329001258611679
+Q8DW89,Molecular Function,GO:0032553,ribonucleotide binding,0.325081306695938
+Q8DW89,Molecular Function,GO:0010181,FMN binding,0.320101356506348
+Q8DW89,Biological Process,GO:0009987,cellular process,0.446344861388207
+Q8DW89,Biological Process,GO:0008152,metabolic process,0.332157872915268
+Q8DW89,Biological Process,GO:0050896,response to stimulus,0.308979968428612
+Q8DT98,Cellular Component,GO:0110165,cellular anatomical structure,0.351155179738998
+Q8DT98,Cellular Component,GO:0005622,intracellular anatomical structure,0.345897701382637
+Q8DT98,Cellular Component,GO:0043226,organelle,0.317638859152794
+Q8DT98,Cellular Component,GO:0043229,intracellular organelle,0.312954783439636
+Q8DT98,Cellular Component,GO:0016020,membrane,0.301473668217659
+Q8DT98,Molecular Function,GO:0003824,catalytic activity,0.759994328022003
+Q8DT98,Molecular Function,GO:0016740,transferase activity,0.688578903675079
+Q8DT98,Molecular Function,GO:0140640,"catalytic activity, acting on a nucleic acid",0.657689436674118
+Q8DT98,Molecular Function,GO:0140098,"catalytic activity, acting on RNA",0.651970473527908
+Q8DT98,Molecular Function,GO:0140101,"catalytic activity, acting on a tRNA",0.645881794691086
+Q8DT98,Molecular Function,GO:0008168,methyltransferase activity,0.64
+Q8DT98,Molecular Function,GO:0008173,RNA methyltransferase activity,0.64
+Q8DT98,Molecular Function,GO:0008175,tRNA methyltransferase activity,0.64
+Q8DT98,Molecular Function,GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,0.64
+Q8DT98,Molecular Function,GO:0016426,tRNA (adenine) methyltransferase activity,0.64
+Q8DT98,Molecular Function,GO:0016741,"transferase activity, transferring one-carbon groups",0.64
+Q8DT98,Molecular Function,GO:0160105,tRNA (adenine(22)-N1)-methyltransferase activity,0.64
+Q8DT98,Biological Process,GO:0009987,cellular process,0.818373896479607
+Q8DT98,Biological Process,GO:0008152,metabolic process,0.781050119400024
+Q8DT98,Biological Process,GO:0044238,primary metabolic process,0.758027781546116
+Q8DT98,Biological Process,GO:0009058,biosynthetic process,0.728731271326542
+Q8DT98,Biological Process,GO:0043170,macromolecule metabolic process,0.706425683200359
+Q8DT98,Biological Process,GO:0009059,macromolecule biosynthetic process,0.694518388211727
+Q8DT98,Biological Process,GO:0006139,nucleobase-containing compound metabolic process,0.689680528044701
+Q8DT98,Biological Process,GO:0010467,gene expression,0.680290893912315
+Q8DT98,Biological Process,GO:0034654,nucleobase-containing compound biosynthetic process,0.674997497200966
+Q8DT98,Biological Process,GO:0090304,nucleic acid metabolic process,0.664157196581364
+Q8DT98,Biological Process,GO:0141187,nucleic acid biosynthetic process,0.66246035695076
+Q8DT98,Biological Process,GO:0016070,RNA metabolic process,0.658722988367081
+Q8DT98,Biological Process,GO:0032774,RNA biosynthetic process,0.658722988367081
+Q8DT98,Biological Process,GO:0006396,RNA processing,0.628214918076992
+Q8DT98,Biological Process,GO:0006399,tRNA metabolic process,0.626220590174198
+Q8DT98,Biological Process,GO:0008033,tRNA processing,0.622306018769741
+Q8DV27,Cellular Component,GO:0110165,cellular anatomical structure,0.37873472571373
+Q8DV27,Cellular Component,GO:0016020,membrane,0.321137452125549
+Q8DV27,Cellular Component,GO:0005622,intracellular anatomical structure,0.303614097833633
+Q8DSI3,Cellular Component,GO:0110165,cellular anatomical structure,0.305798274278641
+Q8DVV8,Cellular Component,GO:0110165,cellular anatomical structure,0.392477452754974
+Q8DVV8,Cellular Component,GO:0005622,intracellular anatomical structure,0.382327249646187
+Q8DVV8,Cellular Component,GO:0043226,organelle,0.353674095869064
+Q8DVV8,Cellular Component,GO:0043229,intracellular organelle,0.353674095869064
+Q8DVV8,Cellular Component,GO:0016020,membrane,0.348004201054573
+Q8DVV8,Cellular Component,GO:0043227,membrane-bounded organelle,0.320121940970421
+Q8DVV8,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.309321999549866
+Q8DW27,Cellular Component,GO:0110165,cellular anatomical structure,0.376098328828812
+Q8DW27,Cellular Component,GO:0005622,intracellular anatomical structure,0.337791985273361
+Q8DW27,Cellular Component,GO:0016020,membrane,0.336916592717171
+Q8DW27,Cellular Component,GO:0043226,organelle,0.317945006489754
+Q8DW27,Cellular Component,GO:0043229,intracellular organelle,0.317945006489754
+Q8DW27,Cellular Component,GO:0043227,membrane-bounded organelle,0.305384302139282
+Q8DW27,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.305384302139282
+Q8DVC2,Cellular Component,GO:0110165,cellular anatomical structure,0.34795149564743
+Q8DWG7,Cellular Component,GO:0110165,cellular anatomical structure,0.716724070906639
+Q8DWG7,Cellular Component,GO:0016020,membrane,0.698019874095917
+Q8DWG7,Cellular Component,GO:0071944,cell periphery,0.592426136136055
+Q8DWG7,Cellular Component,GO:0005886,plasma membrane,0.584108632802963
+Q8DWG7,Molecular Function,GO:0005215,transporter activity,0.566729699373245
+Q8DWG7,Molecular Function,GO:0022857,transmembrane transporter activity,0.557040015459061
+Q8DWG7,Molecular Function,GO:0015075,monoatomic ion transmembrane transporter activity,0.508458569049835
+Q8DWG7,Molecular Function,GO:0022803,passive transmembrane transporter activity,0.500694603919983
+Q8DWG7,Molecular Function,GO:0015267,channel activity,0.500009632110596
+Q8DWG7,Molecular Function,GO:0005216,monoatomic ion channel activity,0.497628066539764
+Q8DWG7,Molecular Function,GO:0022836,gated channel activity,0.494656983613968
+Q8DWG7,Molecular Function,GO:0008381,mechanosensitive monoatomic ion channel activity,0.490908317565918
+Q8DWG7,Molecular Function,GO:0005488,binding,0.358877998590469
+Q8DWG7,Molecular Function,GO:0005515,protein binding,0.335352236032486
+Q8DWG7,Molecular Function,GO:0042802,identical protein binding,0.324378482103348
+Q8DWG7,Biological Process,GO:0009987,cellular process,0.666946782469749
+Q8DWG7,Biological Process,GO:0051179,localization,0.587802837491035
+Q8DWG7,Biological Process,GO:0051234,establishment of localization,0.587802837491035
+Q8DWG7,Biological Process,GO:0006810,transport,0.582149525880814
+Q8DWG7,Biological Process,GO:0055085,transmembrane transport,0.557040015459061
+Q8DWG7,Biological Process,GO:0006811,monoatomic ion transport,0.508458569049835
+Q8DWG7,Biological Process,GO:0034220,monoatomic ion transmembrane transport,0.508458569049835
+Q8DWG7,Biological Process,GO:0050896,response to stimulus,0.465641550421715
+Q8DWG7,Biological Process,GO:0042221,response to chemical,0.424989902973175
+Q8DWG7,Biological Process,GO:0006950,response to stress,0.358206969201565
+Q8DWG7,Biological Process,GO:0051716,cellular response to stimulus,0.349605193734169
+Q8DWG7,Biological Process,GO:0070887,cellular response to chemical stimulus,0.341801470220089
+Q8DWG7,Biological Process,GO:0033554,cellular response to stress,0.336096994578838
+Q8DWG7,Biological Process,GO:0062197,cellular response to chemical stress,0.323838420510292
+Q8DTF6,Cellular Component,GO:0110165,cellular anatomical structure,0.361441773176193
+Q8DTF6,Cellular Component,GO:0016020,membrane,0.306084734201431
+Q8DT89,Cellular Component,GO:0110165,cellular anatomical structure,0.372862941026688
+Q8DT89,Cellular Component,GO:0005622,intracellular anatomical structure,0.372862941026688
+Q8DT89,Cellular Component,GO:0043226,organelle,0.340863034129143
+Q8DT89,Cellular Component,GO:0043229,intracellular organelle,0.33215274810791
+Q8DT89,Cellular Component,GO:0016020,membrane,0.313316076993942
+Q8DT89,Cellular Component,GO:0043227,membrane-bounded organelle,0.306677851080894
+Q8DT15,Cellular Component,GO:0110165,cellular anatomical structure,0.833524405956268
+Q8DT15,Cellular Component,GO:0005622,intracellular anatomical structure,0.772070477902889
+Q8DT15,Cellular Component,GO:0005737,cytoplasm,0.765505020320415
+Q8DT15,Cellular Component,GO:0005829,cytosol,0.621839374303818
+Q8DT15,Cellular Component,GO:0016020,membrane,0.472921423614025
+Q8DT15,Cellular Component,GO:0043226,organelle,0.436832247674465
+Q8DT15,Cellular Component,GO:0043227,membrane-bounded organelle,0.431789694726467
+Q8DT15,Cellular Component,GO:0043229,intracellular organelle,0.431789694726467
+Q8DT15,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.431789694726467
+Q8DT15,Molecular Function,GO:0003824,catalytic activity,0.797961887121201
+Q8DT15,Molecular Function,GO:0016491,oxidoreductase activity,0.700175766944885
+Q8DT15,Molecular Function,GO:0016667,"oxidoreductase activity, acting on a sulfur group of donors",0.64
+Q8DT15,Molecular Function,GO:0016671,"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor",0.64
+Q8DT15,Molecular Function,GO:0033745,L-methionine-(R)-S-oxide reductase activity,0.64
+Q8DT15,Molecular Function,GO:0005488,binding,0.444394854307175
+Q8DT15,Molecular Function,GO:0005515,protein binding,0.392045258283615
+Q8DT15,Molecular Function,GO:0042802,identical protein binding,0.383547687530518
+Q8DT15,Molecular Function,GO:0046983,protein dimerization activity,0.357275342941284
+Q8DT15,Molecular Function,GO:0042803,protein homodimerization activity,0.355727472305298
+Q8DT15,Biological Process,GO:0009987,cellular process,0.479025471508503
+Q8DT15,Biological Process,GO:0050896,response to stimulus,0.351150518357754
+Q8DT15,Biological Process,GO:0006950,response to stress,0.323022772669792
+Q8DT15,Biological Process,GO:0042221,response to chemical,0.3108622610569
+Q8DVI6,Cellular Component,GO:0110165,cellular anatomical structure,0.372942495346069
+Q8DVI6,Cellular Component,GO:0016020,membrane,0.33294877409935
+Q8DSZ1,Cellular Component,GO:0110165,cellular anatomical structure,0.300676515698433
+Q8DVE7,Cellular Component,GO:0110165,cellular anatomical structure,0.908819377422333
+Q8DVE7,Cellular Component,GO:0005622,intracellular anatomical structure,0.826375165581703
+Q8DVE7,Cellular Component,GO:0005737,cytoplasm,0.769465047121048
+Q8DVE7,Cellular Component,GO:0005829,cytosol,0.589784294366837
+Q8DVE7,Cellular Component,GO:0016020,membrane,0.322607624530792
+Q8DSL6,Cellular Component,GO:0110165,cellular anatomical structure,0.355979427695274
+Q8DSL6,Cellular Component,GO:0005622,intracellular anatomical structure,0.348278564214706
+Q8DSL6,Cellular Component,GO:0016020,membrane,0.309716793894768
+Q8DSL6,Cellular Component,GO:0043226,organelle,0.303774145245552
+Q8DSL6,Molecular Function,GO:0003824,catalytic activity,0.78364933013916
+Q8DSL6,Molecular Function,GO:0016787,hydrolase activity,0.689372365474701
+Q8DSL6,Molecular Function,GO:0016788,"hydrolase activity, acting on ester bonds",0.654698226451874
+Q8DSL6,Molecular Function,GO:0140640,"catalytic activity, acting on a nucleic acid",0.652342131137848
+Q8DSL6,Molecular Function,GO:0004518,nuclease activity,0.644469246864319
+Q8DSL6,Molecular Function,GO:0140097,"catalytic activity, acting on DNA",0.644130365848541
+Q8DSL6,Molecular Function,GO:0004536,DNA nuclease activity,0.64
+Q8DSL6,Biological Process,GO:0009987,cellular process,0.859323950409889
+Q8DSL6,Biological Process,GO:0008152,metabolic process,0.786055314540863
+Q8DSL6,Biological Process,GO:0044238,primary metabolic process,0.761719971895218
+Q8DSL6,Biological Process,GO:0043170,macromolecule metabolic process,0.726899141073227
+Q8DSL6,Biological Process,GO:0006139,nucleobase-containing compound metabolic process,0.679105008840561
+Q8DSL6,Biological Process,GO:0090304,nucleic acid metabolic process,0.658749825656414
+Q8DSL6,Biological Process,GO:0006259,DNA metabolic process,0.64
+Q8DWN7,Cellular Component,GO:0110165,cellular anatomical structure,0.332744604349136
+Q8DT82,Cellular Component,GO:0110165,cellular anatomical structure,0.351818436384201
+Q8DT82,Cellular Component,GO:0005622,intracellular anatomical structure,0.336582362651825
+Q8DT82,Cellular Component,GO:0043226,organelle,0.309842079877853
+Q8DT82,Cellular Component,GO:0016020,membrane,0.3086708933115
+Q8DT82,Cellular Component,GO:0043229,intracellular organelle,0.30592425763607
+Q8DTV3,Cellular Component,GO:0110165,cellular anatomical structure,0.808597028255463
+Q8DTV3,Cellular Component,GO:0016020,membrane,0.760503880679607
+Q8DTV3,Cellular Component,GO:0071944,cell periphery,0.646201731264591
+Q8DTV3,Cellular Component,GO:0005886,plasma membrane,0.637616838514805
+Q8DTV3,Cellular Component,GO:0030313,cell envelope,0.556997856497765
+Q8DTV3,Cellular Component,GO:0042597,periplasmic space,0.555098490417004
+Q8DTV3,Cellular Component,GO:0030288,outer membrane-bounded periplasmic space,0.55
+Q8DW48,Cellular Component,GO:0110165,cellular anatomical structure,0.820893874764442
+Q8DW48,Cellular Component,GO:0016020,membrane,0.813582548499107
+Q8DW48,Cellular Component,GO:0043226,organelle,0.691734889149666
+Q8DW48,Cellular Component,GO:0043227,membrane-bounded organelle,0.691734889149666
+Q8DW48,Cellular Component,GO:0071944,cell periphery,0.661007711291313
+Q8DW48,Cellular Component,GO:0005886,plasma membrane,0.65315642952919
+Q8DW48,Cellular Component,GO:0005622,intracellular anatomical structure,0.622289595007896
+Q8DW48,Cellular Component,GO:0043229,intracellular organelle,0.608014610409737
+Q8DW48,Cellular Component,GO:0005737,cytoplasm,0.600709319114685
+Q8DW48,Cellular Component,GO:0005773,vacuole,0.599905407428741
+Q8DW48,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.599905407428741
+Q8DW48,Cellular Component,GO:0012505,endomembrane system,0.562055978178978
+Q8DW48,Cellular Component,GO:0005783,endoplasmic reticulum,0.40280859619379
+Q8DW48,Molecular Function,GO:0003824,catalytic activity,0.717741650342941
+Q8DW48,Molecular Function,GO:0016740,transferase activity,0.386259212493896
+Q8DW48,Molecular Function,GO:0140096,"catalytic activity, acting on a protein",0.357600667476654
+Q8DW48,Molecular Function,GO:0003880,protein C-terminal carboxyl O-methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0004671,protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0008168,methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0008171,O-methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0008276,protein methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0010340,carboxyl-O-methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0016741,"transferase activity, transferring one-carbon groups",0.349570198059082
+Q8DW48,Molecular Function,GO:0051998,protein carboxyl O-methyltransferase activity,0.349570198059082
+Q8DW48,Molecular Function,GO:0016491,oxidoreductase activity,0.31252140879631
+Q8DW48,Biological Process,GO:0009987,cellular process,0.681921558380127
+Q8DW48,Biological Process,GO:0008152,metabolic process,0.552857372760773
+Q8DW48,Biological Process,GO:0044238,primary metabolic process,0.538387657105923
+Q8DW48,Biological Process,GO:0032502,developmental process,0.459770611226559
+Q8DW48,Biological Process,GO:0048856,anatomical structure development,0.455603880882263
+Q8DW48,Biological Process,GO:0044281,small molecule metabolic process,0.322163450419903
+Q8DW48,Biological Process,GO:0043170,macromolecule metabolic process,0.321555724143982
+Q8DW48,Biological Process,GO:0009058,biosynthetic process,0.32098077327013
+Q8DW48,Biological Process,GO:0006629,lipid metabolic process,0.305219648182392
+Q8DUS0,Cellular Component,GO:0110165,cellular anatomical structure,0.404174137115478
+Q8DUS0,Cellular Component,GO:0016020,membrane,0.396008312702179
+Q8DUS0,Cellular Component,GO:0071944,cell periphery,0.356433981657028
+Q8DUS0,Cellular Component,GO:0005886,plasma membrane,0.355645090341568
+Q8DUY6,Cellular Component,GO:0110165,cellular anatomical structure,0.712921115756035
+Q8DUY6,Cellular Component,GO:0005622,intracellular anatomical structure,0.710866838693619
+Q8DUY6,Cellular Component,GO:0005737,cytoplasm,0.661518833041191
+Q8DUY6,Cellular Component,GO:0043226,organelle,0.438438011705875
+Q8DUY6,Cellular Component,GO:0043229,intracellular organelle,0.432359991967678
+Q8DUY6,Cellular Component,GO:0005829,cytosol,0.424373123049736
+Q8DUY6,Cellular Component,GO:0016020,membrane,0.421489079296589
+Q8DUY6,Cellular Component,GO:0043227,membrane-bounded organelle,0.403026147186756
+Q8DUY6,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.401927997171879
+Q8DUY6,Molecular Function,GO:0003824,catalytic activity,0.717081227302551
+Q8DUY6,Molecular Function,GO:0016787,hydrolase activity,0.608301504850388
+Q8DUY6,Molecular Function,GO:0016788,"hydrolase activity, acting on ester bonds",0.57758345246315
+Q8DUY6,Molecular Function,GO:0005488,binding,0.577157504558563
+Q8DUY6,Molecular Function,GO:0036094,small molecule binding,0.533067610263824
+Q8DUY6,Molecular Function,GO:0043167,ion binding,0.519732804298401
+Q8DUY6,Molecular Function,GO:0043169,cation binding,0.504471592903137
+Q8DUY6,Molecular Function,GO:0046872,metal ion binding,0.504471592903137
+Q8DUY6,Molecular Function,GO:0000287,magnesium ion binding,0.465196188688278
+Q8DUY6,Molecular Function,GO:0016791,phosphatase activity,0.463967972993851
+Q8DUY6,Molecular Function,GO:0042578,phosphoric ester hydrolase activity,0.463967972993851
+Q8DUY6,Molecular Function,GO:0019203,carbohydrate phosphatase activity,0.316911716461182
+Q8DUY6,Molecular Function,GO:0050308,sugar-phosphatase activity,0.316911716461182
+Q8DUY6,Biological Process,GO:0009987,cellular process,0.495810204446316
+Q8DUY6,Biological Process,GO:0008152,metabolic process,0.452324683368206
+Q8DUY6,Biological Process,GO:0009058,biosynthetic process,0.331725056767464
+Q8DUY7,Cellular Component,GO:0005622,intracellular anatomical structure,0.548871372640133
+Q8DUY7,Cellular Component,GO:0110165,cellular anatomical structure,0.548871372640133
+Q8DUY7,Cellular Component,GO:0005737,cytoplasm,0.48769689053297
+Q8DUY7,Cellular Component,GO:0043226,organelle,0.33788806386292
+Q8DUY7,Cellular Component,GO:0043229,intracellular organelle,0.33788806386292
+Q8DUY7,Cellular Component,GO:0016020,membrane,0.324634276703
+Q8DUY7,Cellular Component,GO:0043227,membrane-bounded organelle,0.308480994775891
+Q8DUY7,Molecular Function,GO:0003824,catalytic activity,0.784701603651047
+Q8DUY7,Molecular Function,GO:0005488,binding,0.693132140636444
+Q8DUY7,Molecular Function,GO:0016787,hydrolase activity,0.68324932217598
+Q8DUY7,Molecular Function,GO:0016788,"hydrolase activity, acting on ester bonds",0.65418385386467
+Q8DUY7,Molecular Function,GO:0036094,small molecule binding,0.641245193481445
+Q8DUY7,Molecular Function,GO:0043167,ion binding,0.629391224384308
+Q8DUY7,Molecular Function,GO:0043169,cation binding,0.617983907461166
+Q8DUY7,Molecular Function,GO:0046872,metal ion binding,0.617687566280365
+Q8DUY7,Molecular Function,GO:0016791,phosphatase activity,0.576726393699646
+Q8DUY7,Molecular Function,GO:0042578,phosphoric ester hydrolase activity,0.576726393699646
+Q8DUY7,Molecular Function,GO:0000287,magnesium ion binding,0.576362965106964
+Q8DUY7,Molecular Function,GO:0019203,carbohydrate phosphatase activity,0.353752517700195
+Q8DUY7,Molecular Function,GO:0050308,sugar-phosphatase activity,0.353752517700195
+Q8DUY7,Biological Process,GO:0009987,cellular process,0.554316852092743
+Q8DUY7,Biological Process,GO:0008152,metabolic process,0.502154308855534
+Q8DUY7,Biological Process,GO:0009058,biosynthetic process,0.370269092917442
+Q8DUY7,Biological Process,GO:0044281,small molecule metabolic process,0.337187808156014
+Q8DTU5,Cellular Component,GO:0110165,cellular anatomical structure,0.318936297297478
+Q8DVI7,Cellular Component,GO:0110165,cellular anatomical structure,0.404192268848419
+Q8DVI7,Cellular Component,GO:0016020,membrane,0.404192268848419
+Q8DVI7,Cellular Component,GO:0071944,cell periphery,0.352805542945862
+Q8DVI7,Cellular Component,GO:0005886,plasma membrane,0.352805542945862
+Q8DVI7,Cellular Component,GO:0005622,intracellular anatomical structure,0.324786972999573
+Q8DVI7,Cellular Component,GO:0043226,organelle,0.309500715136528
+Q8DVI7,Cellular Component,GO:0043229,intracellular organelle,0.308221060037613
+Q8DVI7,Cellular Component,GO:0043227,membrane-bounded organelle,0.307792791724205
+Q8DVI7,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.306866356730461
+Q8DVI7,Cellular Component,GO:0005737,cytoplasm,0.306866356730461
+Q8DVI7,Cellular Component,GO:0005773,vacuole,0.306866356730461
+Q8DVZ0,Cellular Component,GO:0110165,cellular anatomical structure,0.828605476021767
+Q8DVZ0,Cellular Component,GO:0016020,membrane,0.759812420606613
+Q8DVZ0,Cellular Component,GO:0071944,cell periphery,0.670510336756706
+Q8DVZ0,Cellular Component,GO:0005886,plasma membrane,0.659287746250629
+Q8DTC5,Cellular Component,GO:0110165,cellular anatomical structure,0.392007154226303
+Q8DTC5,Cellular Component,GO:0016020,membrane,0.341773188114166
+Q8DTC5,Cellular Component,GO:0005622,intracellular anatomical structure,0.333187383413315
+Q8DTC5,Cellular Component,GO:0043226,organelle,0.314008167386055
+Q8DTC5,Cellular Component,GO:0043229,intracellular organelle,0.308942896127701
+Q8DSW4,Cellular Component,GO:0110165,cellular anatomical structure,0.39616165459156
+Q8DSW4,Cellular Component,GO:0016020,membrane,0.353650707006454
+Q8DSW4,Cellular Component,GO:0005622,intracellular anatomical structure,0.34819458425045
+Q8DSW4,Cellular Component,GO:0043226,organelle,0.34819458425045
+Q8DSW4,Cellular Component,GO:0043229,intracellular organelle,0.34819458425045
+Q8DSW4,Cellular Component,GO:0043227,membrane-bounded organelle,0.318874096870422
+Q8DSW4,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.310648137331009
+Q8DW34,Cellular Component,GO:0110165,cellular anatomical structure,0.395750015974045
+Q8DW34,Cellular Component,GO:0016020,membrane,0.381066235899925
+Q8DW34,Cellular Component,GO:0071944,cell periphery,0.31353172659874
+Q8DW34,Cellular Component,GO:0005886,plasma membrane,0.310648244619369
+Q8DW34,Cellular Component,GO:0005622,intracellular anatomical structure,0.305762600898743
+Q8DW34,Cellular Component,GO:0043226,organelle,0.305385187268257
+Q8DV34,Cellular Component,GO:0005622,intracellular anatomical structure,0.62005895525217
+Q8DV34,Cellular Component,GO:0110165,cellular anatomical structure,0.62005895525217
+Q8DV34,Cellular Component,GO:0043226,organelle,0.59639326184988
+Q8DV34,Cellular Component,GO:0043229,intracellular organelle,0.59639326184988
+Q8DV34,Cellular Component,GO:0043228,membraneless organelle,0.374446742236614
+Q8DV34,Cellular Component,GO:0043232,intracellular membraneless organelle,0.367034564912319
+Q8DV34,Cellular Component,GO:0016020,membrane,0.351975184679031
+Q8DV34,Cellular Component,GO:0043227,membrane-bounded organelle,0.348613679409027
+Q8DV34,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.345752164721489
+Q8DV34,Cellular Component,GO:0005737,cytoplasm,0.320245510339737
+Q8DV34,Molecular Function,GO:0003824,catalytic activity,0.553804972171783
+Q8DV34,Molecular Function,GO:0016787,hydrolase activity,0.501869455575943
+Q8DV34,Molecular Function,GO:0016817,"hydrolase activity, acting on acid anhydrides",0.470315616130829
+Q8DV34,Molecular Function,GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.470315616130829
+Q8DV34,Molecular Function,GO:0016462,pyrophosphatase activity,0.469813807010651
+Q8DV34,Molecular Function,GO:0017111,ribonucleoside triphosphate phosphatase activity,0.46924129486084
+Q8DV34,Molecular Function,GO:0003924,GTPase activity,0.458013406991959
+Q8DV34,Molecular Function,GO:0005488,binding,0.306874153614044
+Q8DV34,Biological Process,GO:0009987,cellular process,0.671861768960953
+Q8DV34,Biological Process,GO:0007049,cell cycle,0.544393617510796
+Q8DV34,Biological Process,GO:0022402,cell cycle process,0.544393617510796
+Q8DV34,Biological Process,GO:0071840,cellular component organization or biogenesis,0.37469699382782
+Q8DV34,Biological Process,GO:0016043,cellular component organization,0.363562215268612
+Q8DV34,Biological Process,GO:0065007,biological regulation,0.324747104346752
+Q8DV34,Biological Process,GO:0050789,regulation of biological process,0.316388445198536
+Q8DV34,Biological Process,GO:0050794,regulation of cellular process,0.310426696538925
+Q8DTA5,Cellular Component,GO:0110165,cellular anatomical structure,0.35176956653595
+Q8DTA5,Cellular Component,GO:0005622,intracellular anatomical structure,0.349422955513
+Q8DTA5,Cellular Component,GO:0005737,cytoplasm,0.304371875524521
+Q8DU43,Cellular Component,GO:0110165,cellular anatomical structure,0.379073917865753
+Q8DU43,Cellular Component,GO:0005622,intracellular anatomical structure,0.35134100317955
+Q8DU43,Cellular Component,GO:0016020,membrane,0.341211077570915
+Q8DU43,Cellular Component,GO:0043226,organelle,0.340664845705032
+Q8DU43,Cellular Component,GO:0043229,intracellular organelle,0.340664845705032
+Q8DU43,Cellular Component,GO:0043227,membrane-bounded organelle,0.311787325143814
+Q8DU43,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.311787325143814
+Q8DVG9,Cellular Component,GO:0110165,cellular anatomical structure,0.388865777850151
+Q8DVG9,Cellular Component,GO:0005622,intracellular anatomical structure,0.388865777850151
+Q8DVG9,Cellular Component,GO:0043226,organelle,0.375792154669762
+Q8DVG9,Cellular Component,GO:0043229,intracellular organelle,0.372804549336433
+Q8DVG9,Cellular Component,GO:0043227,membrane-bounded organelle,0.336293944716454
+Q8DVG9,Cellular Component,GO:0016020,membrane,0.336293944716454
+Q8DVG9,Cellular Component,GO:0043231,intracellular membrane-bounded organelle,0.326280829310417
+Q8DSY3,Cellular Component,GO:0110165,cellular anatomical structure,0.326718860864639
+I6L909,Cellular Component,GO:0110165,cellular anatomical structure,0.32614258825779
+Q8DWI5,Cellular Component,GO:0110165,cellular anatomical structure,0.376545855402946
+Q8DWI5,Cellular Component,GO:0016020,membrane,0.308403021097183
+Q8DWI5,Cellular Component,GO:0005622,intracellular anatomical structure,0.30626095533371
+Q8DT94,Cellular Component,GO:0110165,cellular anatomical structure,0.365702864527702
+Q8DT94,Cellular Component,GO:0005622,intracellular anatomical structure,0.365702864527702
+Q8DT94,Cellular Component,GO:0043226,organelle,0.338218885660171
+Q8DT94,Cellular Component,GO:0043229,intracellular organelle,0.335578653216362

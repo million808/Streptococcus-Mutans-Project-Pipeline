@@ -1,0 +1,57 @@
+Protein,Section,GO_ID,Description,Score
+I6L909,Cellular Component,GO:0110165,cellular anatomical structure,0.326142588
+Q8DSI3,Cellular Component,GO:0110165,cellular anatomical structure,0.305798274
+Q8DSL6,Biological Process,GO:0009987,cellular process,0.85932395
+Q8DSL6,Cellular Component,GO:0110165,cellular anatomical structure,0.355979428
+Q8DSL6,Molecular Function,GO:0003824,catalytic activity,0.78364933
+Q8DSW4,Cellular Component,GO:0110165,cellular anatomical structure,0.396161655
+Q8DSY3,Cellular Component,GO:0110165,cellular anatomical structure,0.326718861
+Q8DSZ1,Cellular Component,GO:0110165,cellular anatomical structure,0.300676516
+Q8DT15,Biological Process,GO:0009987,cellular process,0.479025472
+Q8DT15,Cellular Component,GO:0110165,cellular anatomical structure,0.833524406
+Q8DT15,Molecular Function,GO:0003824,catalytic activity,0.797961887
+Q8DT82,Cellular Component,GO:0110165,cellular anatomical structure,0.351818436
+Q8DT89,Cellular Component,GO:0110165,cellular anatomical structure,0.372862941
+Q8DT94,Cellular Component,GO:0110165,cellular anatomical structure,0.365702865
+Q8DT98,Biological Process,GO:0009987,cellular process,0.818373896
+Q8DT98,Cellular Component,GO:0110165,cellular anatomical structure,0.35115518
+Q8DT98,Molecular Function,GO:0003824,catalytic activity,0.759994328
+Q8DTA5,Cellular Component,GO:0110165,cellular anatomical structure,0.351769567
+Q8DTC5,Cellular Component,GO:0110165,cellular anatomical structure,0.392007154
+Q8DTF6,Cellular Component,GO:0110165,cellular anatomical structure,0.361441773
+Q8DTU5,Cellular Component,GO:0110165,cellular anatomical structure,0.318936297
+Q8DTV3,Cellular Component,GO:0110165,cellular anatomical structure,0.808597028
+Q8DTW2,Cellular Component,GO:0110165,cellular anatomical structure,0.382988065
+Q8DU43,Cellular Component,GO:0110165,cellular anatomical structure,0.379073918
+Q8DUS0,Cellular Component,GO:0110165,cellular anatomical structure,0.404174137
+Q8DUY6,Biological Process,GO:0009987,cellular process,0.495810204
+Q8DUY6,Cellular Component,GO:0110165,cellular anatomical structure,0.712921116
+Q8DUY6,Molecular Function,GO:0003824,catalytic activity,0.717081227
+Q8DUY7,Biological Process,GO:0009987,cellular process,0.554316852
+Q8DUY7,Cellular Component,GO:0005622,intracellular anatomical structure,0.548871373
+Q8DUY7,Molecular Function,GO:0003824,catalytic activity,0.784701604
+Q8DV27,Cellular Component,GO:0110165,cellular anatomical structure,0.378734726
+Q8DV34,Biological Process,GO:0009987,cellular process,0.671861769
+Q8DV34,Cellular Component,GO:0005622,intracellular anatomical structure,0.620058955
+Q8DV34,Molecular Function,GO:0003824,catalytic activity,0.553804972
+Q8DVC2,Cellular Component,GO:0110165,cellular anatomical structure,0.347951496
+Q8DVE7,Cellular Component,GO:0110165,cellular anatomical structure,0.908819377
+Q8DVG9,Cellular Component,GO:0110165,cellular anatomical structure,0.388865778
+Q8DVI6,Cellular Component,GO:0110165,cellular anatomical structure,0.372942495
+Q8DVI7,Cellular Component,GO:0110165,cellular anatomical structure,0.404192269
+Q8DVV8,Cellular Component,GO:0110165,cellular anatomical structure,0.392477453
+Q8DVZ0,Cellular Component,GO:0110165,cellular anatomical structure,0.828605476
+Q8DW27,Cellular Component,GO:0110165,cellular anatomical structure,0.376098329
+Q8DW34,Cellular Component,GO:0110165,cellular anatomical structure,0.395750016
+Q8DW46,Cellular Component,GO:0110165,cellular anatomical structure,0.318825495
+Q8DW48,Biological Process,GO:0009987,cellular process,0.681921558
+Q8DW48,Cellular Component,GO:0110165,cellular anatomical structure,0.820893875
+Q8DW48,Molecular Function,GO:0003824,catalytic activity,0.71774165
+Q8DW89,Biological Process,GO:0009987,cellular process,0.446344861
+Q8DW89,Cellular Component,GO:0110165,cellular anatomical structure,0.711042699
+Q8DW89,Molecular Function,GO:0003824,catalytic activity,0.532783133
+Q8DWG7,Biological Process,GO:0009987,cellular process,0.666946782
+Q8DWG7,Cellular Component,GO:0110165,cellular anatomical structure,0.716724071
+Q8DWG7,Molecular Function,GO:0005215,transporter activity,0.566729699
+Q8DWI5,Cellular Component,GO:0110165,cellular anatomical structure,0.376545855
+Q8DWN7,Cellular Component,GO:0110165,cellular anatomical structure,0.332744604
